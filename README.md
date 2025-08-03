@@ -45,5 +45,3 @@ Everything beyond the &lt;setting&gt; was lit with &lt;sky_color&gt; light — a
 
 Would you like this as a fill-in-the-blank template, or filled in with example values next?
 
-Would you like a version of this with example values filled in?
-
