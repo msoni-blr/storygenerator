@@ -44,4 +44,3 @@ Everything beyond the &lt;setting&gt; was lit with &lt;sky_color&gt; light — a
 &lt;eye_color&gt; – color of the figure’s eyes (e.g., violet, pale blue)
 
 Would you like this as a fill-in-the-blank template, or filled in with example values next?
-
