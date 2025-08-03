@@ -2,28 +2,20 @@
 
 Resources: https://youtu.be/NpmFbWO6HPU?si=nen85ixbUFBtd1j9
 
-## ChatGPT Prompt for generating sample story
+## ChatGPT Prompt for generating sample story  
 
-**Prompt1:** create a short story where you leave space for filling in adjective words as a replaceable strings like &lt;replaceable word&gt;
-
-**ChatGPT:** Sure! Here's a short story with replaceable adjective placeholders, denoted by &lt;replaceable word&gt;:
-
-**Prompt2:** use different types of replacebale strings for different kinds of words, like &lt;adjective1&gt;, &lt;adjective2&gt; etc.
-
-**ChatGPT:** Great! Here's a version of the story using different types of replaceable strings to represent different kinds of words like &lt;adjective1&gt;, &lt;adjective2&gt;, &lt;noun1&gt;, etc.
-
-**Prompt3:** could you introduce some commonly occurring words in the story?
-
-**ChatGPT:** Absolutely — here's a revised version of the story that includes more common, naturally recurring words, like “and,” “but,” “because,” “very,” “so,” “when,” and others. These give the story a smoother, more lifelike rhythm while keeping the placeholders in place for the creative parts.
-
-**Prompt4:** not like this. meaning usage of &lt;adjective1&gt; in more than one places and so on.
-
-**ChatGPT:** Got it — you're looking for reusable placeholder tags like &lt;adjective1&gt; that appear in multiple places in the story, so they maintain consistency (e.g., if &lt;adjective1&gt; is "misty", then all occurrences of &lt;adjective1&gt; will be "misty"). That’s very useful for templates and games like Mad Libs. Here’s a revised short story using that consistent placeholder approach:
-
+**Prompt1:** create a short story where you leave space for filling in adjective words as a replaceable strings like &lt;replaceable word&gt;  
+**ChatGPT:** Sure! Here's a short story with replaceable adjective placeholders, denoted by &lt;replaceable word&gt;:  
+**Prompt2:** use different types of replacebale strings for different kinds of words, like &lt;adjective1&gt;, &lt;adjective2&gt; etc.  
+**ChatGPT:** Great! Here's a version of the story using different types of replaceable strings to represent different kinds of words like &lt;adjective1&gt;, &lt;adjective2&gt;, &lt;noun1&gt;, etc.  
+**Prompt3:** could you introduce some commonly occurring words in the story?  
+**ChatGPT:** Absolutely — here's a revised version of the story that includes more common, naturally recurring words, like “and,” “but,” “because,” “very,” “so,” “when,” and others. These give the story a smoother, more lifelike rhythm while keeping the placeholders in place for the creative parts.  
+**Prompt4:** not like this. meaning usage of &lt;adjective1&gt; in more than one places and so on.  
+**ChatGPT:** Got it — you're looking for reusable placeholder tags like &lt;adjective1&gt; that appear in multiple places in the story, so they maintain consistency (e.g., if &lt;adjective1&gt; is "misty", then all occurrences of &lt;adjective1&gt; will be "misty"). That’s very useful for templates and games like Mad Libs. Here’s a revised short story using that consistent placeholder approach:  
 
 **Final Version of the story by ChatGPT:**
 
-**Title: The &lt;adjective1&gt; Forest**
+**Title: The &lt;adjective1&gt; Forest**  
 On a &lt;adjective1&gt; morning, Lily stepped out of her cottage with a &lt;adjective2&gt; smile and a heart full of &lt;emotion1&gt;. The sky was &lt;adjective3&gt;, and the wind carried a &lt;adjective4&gt; scent through the air.
 
 She grabbed her &lt;adjective5&gt; &lt;object1&gt; and started walking toward the forest. The trees, tall and &lt;adjective6&gt;, swayed gently. Their &lt;adjective6&gt; branches whispered secrets that only someone truly &lt;emotion1&gt; could hear.
