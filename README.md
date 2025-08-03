@@ -2,7 +2,7 @@
 
 Resources: https://youtu.be/NpmFbWO6HPU?si=nen85ixbUFBtd1j9
 
-## ChatGPT Prompt
+## ChatGPT Prompt for generating sample story
 
 **Prompt1:** create a short story where you leave space for filling in adjective words as a replaceable strings like <replaceable word>
 
