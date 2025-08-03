@@ -38,11 +38,11 @@ What awaited her beyond the <object2> would change her <noun1> forever.
 
 **Placeholder Legend:**
 
-<adjective1>: describes morning or atmosphere (e.g., misty, quiet, golden)
+<adjective1> : describes morning or atmosphere (e.g., misty, quiet, golden)
 
-<adjective2>: describes expression (e.g., cheerful, shy)
+<adjective2> : describes expression (e.g., cheerful, shy)
 
-<emotion1>: a recurring emotional state (e.g., curious, hopeful)
+<emotion1> : a recurring emotional state (e.g., curious, hopeful)
 
 <emotion2>: a contrasting or momentary emotion (e.g., anxious, uncertain)
 
