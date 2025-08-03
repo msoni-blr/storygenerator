@@ -5,13 +5,21 @@ Resources: https://youtu.be/NpmFbWO6HPU?si=nen85ixbUFBtd1j9
 ## ChatGPT Prompt
 
 **Prompt1:** create a short story where you leave space for filling in adjective words as a replaceable strings like <replaceable word>
+
 **ChatGPT:** Sure! Here's a short story with replaceable adjective placeholders, denoted by <replaceable word>:
+
 **Prompt2:** use different types of replacebale strings for different kinds of words, like <adjective1>, <adjective2> etc.
+
 **ChatGPT:** Great! Here's a version of the story using different types of replaceable strings to represent different kinds of words like <adjective1>, <adjective2>, <noun1>, etc.
+
 **Prompt3:** could you introduce some commonly occurring words in the story?
+
 **ChatGPT:** Absolutely — here's a revised version of the story that includes more common, naturally recurring words, like “and,” “but,” “because,” “very,” “so,” “when,” and others. These give the story a smoother, more lifelike rhythm while keeping the placeholders in place for the creative parts.
+
 **Prompt4:** not like this. meaning usage of <adjective1> in more than one places and so on.
+
 **ChatGPT:** Got it — you're looking for reusable placeholder tags like <adjective1> that appear in multiple places in the story, so they maintain consistency (e.g., if <adjective1> is "misty", then all occurrences of <adjective1> will be "misty"). That’s very useful for templates and games like Mad Libs. Here’s a revised short story using that consistent placeholder approach:
+
 
 **Final Version of the story by ChatGPT:**
 
